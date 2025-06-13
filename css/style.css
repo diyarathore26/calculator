@@ -101,7 +101,10 @@ button.operator:hover {
     }
   }
   
-
+  body.dark .heading {
+    
+    color: white;
+  }
 
   body.dark {
     background-color: #121212;
