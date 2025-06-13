@@ -28,8 +28,6 @@ A responsive and interactive web-based calculator built using **HTML**, **CSS**,
 ![Calculator Light Theme](./assets/LightMode.png)  
 ![Calculator Dark Theme](./assets/DarkMode.png)
 
-> 💡 Add your own screenshots in a `screenshots` folder.
-
 ---
 
 ## 📂 Project Structure
