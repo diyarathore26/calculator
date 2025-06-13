@@ -6,14 +6,11 @@
 }
 .heading {
     font-size: 50px;
-    color: #d3cccc;
+    color: #111010;
     margin-bottom: 30px;
     font-weight: bold;
 }
-.heading:hover { 
-    cursor: pointer;
-    text-decoration: 1px underline;
-}
+
 body {
     display: flex;
     flex-direction: column;
